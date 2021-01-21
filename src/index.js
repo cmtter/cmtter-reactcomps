@@ -1,3 +1,4 @@
+import React from 'react';
 export default () => {
-  console.log('create lib library for cmtter-lib')
+  return <div>测试</div>
 }
