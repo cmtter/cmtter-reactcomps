@@ -107,4 +107,4 @@ packages/
 temp/
 !scripts/**/lib/
 .docz
-docs
+!src/docs

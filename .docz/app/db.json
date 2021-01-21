@@ -1,0 +1,51 @@
+{
+  "config": {
+    "title": "中台前端开发引导",
+    "description": "前端集成化开发及构建工具",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-",
+    "src": "./src",
+    "files": [
+      "src/**/*.{md,markdown,mdx}"
+    ],
+    "dest": "/docs"
+  },
+  "entries": [
+    {
+      "key": "src/src/docs/first-creater.mdx",
+      "value": {
+        "name": "创建工程",
+        "route": "/",
+        "menu": "搭建开发环境",
+        "id": "15fa0194ba7b9b0f4ef430f3aa2ceb55",
+        "filepath": "src/src/docs/first-creater.mdx",
+        "fullpath": "D:\\cmtter-lib-master-test\\cmtter-reactcomps\\src\\docs\\first-creater.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-src-docs-first-creater",
+        "headings": [
+          {
+            "slug": "react-组件-说明",
+            "depth": 1,
+            "value": "React 组件-说明"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/index.js",
+      "value": [
+        {
+          "description": "",
+          "methods": []
+        }
+      ]
+    }
+  ]
+}
