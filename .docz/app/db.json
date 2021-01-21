@@ -12,7 +12,8 @@
     "files": [
       "src/**/*.{md,markdown,mdx}"
     ],
-    "dest": "/docs"
+    "dest": "/docs",
+    "base": "/cmtter-reactcomps"
   },
   "entries": [
     {

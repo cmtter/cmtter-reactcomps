@@ -16,7 +16,7 @@ if (hasGatsbyConfig) {
 }
 
 const config = {
-  pathPrefix: '/',
+  pathPrefix: '/cmtter-reactcomps',
 
   siteMetadata: {
     title: '中台前端开发引导',
@@ -50,7 +50,7 @@ const config = {
         port: 8888,
         p: 8888,
         root: 'D:\\cmtter-lib-master-test\\cmtter-reactcomps\\.docz',
-        base: '/',
+        base: '/cmtter-reactcomps',
         source: './',
         'gatsby-root': null,
         files: ['src/**/*.{md,markdown,mdx}'],
