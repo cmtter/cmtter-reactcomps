@@ -107,4 +107,3 @@ packages/
 temp/
 !scripts/**/lib/
 .docz
-!src/docs
